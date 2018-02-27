@@ -32,7 +32,7 @@ function getPosition() {
       map.centerAndZoom(new BMap.Point(lat, long), 7);
     };
     function onError(error) {
-      alert('法获取地理位置');
+      alert('无法获取地理位置');
     }
   }
 }])
