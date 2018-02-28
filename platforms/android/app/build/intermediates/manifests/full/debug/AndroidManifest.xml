@@ -6,7 +6,7 @@
     android:versionName="1.0.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
     <supports-screens
@@ -40,6 +40,11 @@
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
         android:supportsRtl="true" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="yQGyWiqg4iRmpsE1cB71RckWK5DHtO98" >
+        </meta-data>
+
         <activity
             android:name="com.my.app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
