@@ -4,7 +4,16 @@ ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidMani
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:17:1-27:12
 MERGED from [:CordovaLib] /home/lily/myapp-git/myapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/741e9801cceefd12f8c5ee8b91704e83/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/216f9f72103e9a1661183353006b279c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/52dca63d1039c8112570ffee566e9dee/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c0eb01bd839d688bc19e8519c1baa7ef/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/9ec077f16c0fa715f076d666e902c6aa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/46e79b054c549e456b7ce9497e811c01/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/ca1f89f5e0e4525ac7a1175aca58daa1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/bd6ff581423c4966ec0f287c4a3e20ea/AndroidManifest.xml:17:1-27:12
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-33:12
@@ -44,6 +53,24 @@ ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidMani
 		ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:5:5-16:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/741e9801cceefd12f8c5ee8b91704e83/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/741e9801cceefd12f8c5ee8b91704e83/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/216f9f72103e9a1661183353006b279c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/216f9f72103e9a1661183353006b279c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/52dca63d1039c8112570ffee566e9dee/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/52dca63d1039c8112570ffee566e9dee/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c0eb01bd839d688bc19e8519c1baa7ef/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c0eb01bd839d688bc19e8519c1baa7ef/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/9ec077f16c0fa715f076d666e902c6aa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/9ec077f16c0fa715f076d666e902c6aa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/46e79b054c549e456b7ce9497e811c01/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/46e79b054c549e456b7ce9497e811c01/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/ca1f89f5e0e4525ac7a1175aca58daa1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/ca1f89f5e0e4525ac7a1175aca58daa1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/bd6ff581423c4966ec0f287c4a3e20ea/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/bd6ff581423c4966ec0f287c4a3e20ea/AndroidManifest.xml:25:5-20
 	android:supportsRtl
 		ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 	android:label
@@ -151,9 +178,29 @@ ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidMani
 uses-sdk
 ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:32:5-74
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:32:5-74
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:21:5-23:78
 MERGED from [:CordovaLib] /home/lily/myapp-git/myapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /home/lily/myapp-git/myapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/741e9801cceefd12f8c5ee8b91704e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/741e9801cceefd12f8c5ee8b91704e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/216f9f72103e9a1661183353006b279c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/216f9f72103e9a1661183353006b279c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/52dca63d1039c8112570ffee566e9dee/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/52dca63d1039c8112570ffee566e9dee/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c0eb01bd839d688bc19e8519c1baa7ef/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c0eb01bd839d688bc19e8519c1baa7ef/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/9ec077f16c0fa715f076d666e902c6aa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/9ec077f16c0fa715f076d666e902c6aa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/46e79b054c549e456b7ce9497e811c01/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/46e79b054c549e456b7ce9497e811c01/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/ca1f89f5e0e4525ac7a1175aca58daa1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/ca1f89f5e0e4525ac7a1175aca58daa1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/bd6ff581423c4966ec0f287c4a3e20ea/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/bd6ff581423c4966ec0f287c4a3e20ea/AndroidManifest.xml:21:5-23:58
 INJECTED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:32:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/lily/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/be9a2c582d375a3331f114bc21938398/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /home/lily/myapp-git/myapp/platforms/android/app/src/main/AndroidManifest.xml:32:42-71
 	android:minSdkVersion

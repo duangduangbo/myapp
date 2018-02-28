@@ -246,6 +246,12 @@ android {
     if (cdvDebugSigningPropertiesFile) {
         addSigningProps(cdvDebugSigningPropertiesFile, signingConfigs.debug)
     }
+    sourceSets{
+        main{
+            jniLibs.srcDir 'libs'
+            jni.srcDirs=[]
+        }
+    }
 }
 
 /*
@@ -260,6 +266,11 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     implementation(project(path: ":CordovaLib"))
     // SUB-PROJECT DEPENDENCIES END
+    androidTestCompile('com.android.support.test.espresso:core:2.2.2',{
+        exclude group:'com.android.support',module:'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.1.0'
+    testCompile 'junit:junit:4.12'
 }
 
 def promptForReleaseKeyPassword() {
